@@ -19,5 +19,5 @@ These are small but very powerful PSUs - take great care.
 The 100A output will easily melt wires and cause fires and burns.
 If you take the case off there are VERY HIGH VOLTAGES on exposed
   metalwork and components that can KILL!!!
-**********************************************************************
+*********************************************************************
 
