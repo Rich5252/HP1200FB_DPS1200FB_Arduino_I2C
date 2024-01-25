@@ -6,7 +6,7 @@ both i2c comms and also the control available on a typical HP high power server 
 info was derived from https://github.com/raplin/DPS-1200FB with a lot of other useful info 
 here: https://github.com/slundell/dps_charger.
 
-The PSU I have used is the HP1200FB p/n HSTNS-PD19. However it is likley this same interface
+The PSU I have used is the HP1200FB p/n HSTNS-PD19. However it is likely this same interface
 and protocol will be compatible with many similar plug-in server PSUs.
 
 I intend to expand this work to make a simple PSU controller to switch the PSU on/off, provide
