@@ -13,8 +13,10 @@ I intend to expand this work to make a simple PSU controller to switch the PSU o
 voltage/current monitoring and provide a current limit safety cut-out function. I'll update this
 project as it develops.
 
+Voltage modification details for this specific PSU here: https://youtu.be/oVpzPtx0xMU?si=5mS2i30YyAgQWmQD
 
-************** CAUTION *********** CAUTION **************************
+
+************** CAUTION *********** DANGER **************************
 
 These are small but very powerful PSUs - take great care.
 The 100A output will easily melt wires and cause fires and burns.
