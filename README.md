@@ -10,8 +10,8 @@ The PSU I have used is the HP1200FB p/n HSTNS-PD19. However it is likely this sa
 and protocol will be compatible with many similar plug-in server PSUs.
 
 I intend to expand this work to make a simple PSU controller to switch the PSU on/off, provide
-voltage/current monitoring and provide a current limit safety cut-out function. I'll update this
-project as it develops.
+voltage/current monitoring and provide a current limit safety cut-out function.
+See that project here: https://github.com/Rich5252/HP_Server_PSU_DPS1200FB_HSTNS-FD19_Controller
 
 Voltage modification details for this specific PSU here: https://youtu.be/oVpzPtx0xMU?si=5mS2i30YyAgQWmQD
 
